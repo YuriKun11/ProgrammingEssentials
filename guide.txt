@@ -1,0 +1,16 @@
+Four Pillars of OOP
+
+Encapsulation
+parang capsule
+yan ung nilalagay mo sya sa isang method
+
+Inheritance 
+parang mother and father pwede manganak
+ung anak is another object
+Can be inherit
+
+Polymorphism 
+ung paggamit ng overloaded methods
+
+Abstraction
+Di ko alam hehe
